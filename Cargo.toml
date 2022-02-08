@@ -1,0 +1,7 @@
+[package]
+name = "static-dispatch-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+oneshot = "0.1.3"
